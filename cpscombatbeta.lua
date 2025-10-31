@@ -90,7 +90,7 @@ btnCorner.Parent = copyButton
 
 -- Copy to clipboard function
 local function copyLink()
-    local link = "https://discord.gg/cpshub"
+    local link = "https://discord.gg/GEVGRzC4ZP"
     if setclipboard then
         setclipboard(link)
     elseif toclipboard then
